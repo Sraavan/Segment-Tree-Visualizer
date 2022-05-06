@@ -1,0 +1,69 @@
+{
+    "leaves": [
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 1
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 2
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 3
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 4
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 5
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 6
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 7
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 8
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 9
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 10
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 11
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 12
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 13
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 14
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 15
+        },
+        {
+            "color": "\u001b[47m\u001b[30m",
+            "value": 16
+        }
+    ],
+    "mergeFunc": "Addition"
+}
