@@ -1,10 +1,7 @@
 # Segment Tree Visualizer
 
 ![Alt text](artifacts/ss1.png "Landing")
-<img src="artifacts/ss1.png" alt="Landing" width="200"/>
-
 ![Alt text](artifacts/ss2.png "Sample run")
-<img src="artifacts/ss2.png" alt="Sample run" width="200"/>
 
 ## Learn how a Segment Tree operates
 
