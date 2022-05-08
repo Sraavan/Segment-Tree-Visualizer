@@ -18,7 +18,7 @@ updates in logarithmic time.
 
 Segment tree has a lot of uses and I've come across it frequently in competitive programming. It is quite rare to come
 across questions that necessarily need operations to be done in constant time. So in most cases, if you are familiar with
-segment trees this can also be used in the place of Binary lifting or Fenwick tree.
+segment trees this can also be used in the place of Binary lifting for RMQ or Fenwick tree.
 
 
 ### What's the time complexity?
@@ -51,3 +51,4 @@ the observer and the Segment Tree would be the observable. This way any changes 
 renderer and perform the corresponding render updates.
 
 3) Adding to the above observable pattern, logging events could also be made to implement the Observable pattern.
+
